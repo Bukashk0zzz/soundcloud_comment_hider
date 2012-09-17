@@ -1,0 +1,1 @@
+function soundcloud(){$(document).ready(function(){$(".player").each(function(){$(this).children()!=undefined&&$(this).toggleClass("no-comments");})})}; soundcloud();
